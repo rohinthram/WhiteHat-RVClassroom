@@ -37,7 +37,7 @@ On navigating through signup/account creation page
 <br>
 <br>
 
-![account creation](signup.png)
+![account creation](signup.PNG)
 
 <br>
 
@@ -51,7 +51,7 @@ Further user will be navigated to [LOGIN](#login) page.
 <h2 id='login'> LOGIN </h2>
 <br>
 
-![login page](login.png)
+![login page](login.PNG)
 
 > - Enter user credentials here and click **LOGIN**
 > - Incase if user forgot user credentials click [FORGET PASSWORD](#forgetpassword) link to reset user password
@@ -65,7 +65,7 @@ After logging in user will be navigated to [DASHBOARD](#dashboard) page
 
 <br>
 
-![DASHBOARD](dashboard.png)
+![DASHBOARD](dashboard.PNG)
 
 The Dashboard will display all the classes that user has been enrolled 
 <br><br>
@@ -86,7 +86,7 @@ The navigation bar on the top will be helpful to navigate through pages such as<
 <h2 id='classdetails'> CLASS DETAILS </h2>
 <br><br>
 
-![CLASSROOMCHAT](classroomchat.png)
+![CLASSROOMCHAT](classroomchat.PNG)
 
 <br>
 
@@ -101,7 +101,7 @@ The navigation bar on the top will be helpful to navigate through pages such as<
 <h2 id='assignment'> ASSIGNMENT </h2>
 <br><br>
 
-![assignment](assignmentview.png)
+![assignment](assignmentview.PNG)
 
 <br>
 <br>
@@ -120,12 +120,12 @@ If user with student privilege
 If user with Teacher privilege
 
 - Assignment can be assigned
-![assignment creation](assignassignment.png)
+![assignment creation](assignassignment.PNG)
 <br>
 <br>
 
 - Assignment of submitted students can be viewed
-![submissionassignment](submissionassignment.png)
+![submissionassignment](submissionassignment.PNG)
 
 - > - Clicking the file name will download the assignment to the local system.
 
@@ -138,7 +138,7 @@ If user with Teacher privilege
 
 In the accounts details section user can preview list of classes enrolled and user details with default user display picture
 
-![accounts details](account.png)
+![accounts details](account.PNG)
 
 
 <br>
@@ -149,5 +149,10 @@ In the accounts details section user can preview list of classes enrolled and us
 
 In this page user can enter their registered email-id to receive reset password link 
 
-![forget password](forgetpassword.png)
+![forget password](forgetpassword.PNG)
 
+
+
+# Author
+- Vaikunth Guruswamy
+- R.V.Rohinth Ram
